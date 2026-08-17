@@ -41,3 +41,5 @@ next.config.mjs          ← 空 {}
 ```
 
 相比 4.4，没了 `index.html`、`src/main.jsx`、`src/App.jsx`、`src/router/useRoute.js`——这一坨被 `app/` 取代了。
+
+我的第一个网页
